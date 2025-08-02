@@ -14,15 +14,15 @@ F(1) = 1
 F(n) = F(n - 1) + F(n - 2) for n ≥ 2
 
 ### **Approach**
-- **Memoization (Top-Down):**
+- **Memoization (Top-Down):**<br>
 Uses recursion and a cache to store results of subproblems.
-- **Tabulation (Bottom-Up):**
+- **Tabulation (Bottom-Up):**<br>
 Uses an iterative loop to build the result from the ground up.
 
 
 ### **Compare the solutions**
 
-**Recursive**
+**Recursive**<br>
 Calculated the operation time with nanoseconds:
 Ex. n = 5
 Nanoseconds = 25313
@@ -30,7 +30,7 @@ Nanoseconds = 25313
 Ex. n = 35
 Nanoseconds = 28359
 
-**Iterative**
+**Iterative**<br>
 Calculated the operation time with nanoseconds:
 Ex. n = 5
 Nanoseconds = 25631
