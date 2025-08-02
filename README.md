@@ -119,9 +119,9 @@ Uses an iterative loop to build the result from the ground up.
 *Enter the col count:* 5
 *Total paths:* 35
 
-1 1 1 1 1 
-1 2 3 4 5 
-1 3 6 10 15 
+1 1 1 1 1<br> 
+1 2 3 4 5 <br>
+1 3 6 10 15 <br>
 1 4 10 20 35 
 
 *Time with nanoseconds:* 40964
